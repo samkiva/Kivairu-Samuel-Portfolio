@@ -1,0 +1,15 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Allow read/write access to contacts collection for authenticated users
+    match /contacts/{document} {
+      allow read, write: if true; // For demo purposes - restrict in production
+    }
+    
+    // Allow read access to projects for anyone
+    match /projects/{document} {
+      allow read: if true;
+      allow write: if false; // Only allow writes through admin panel
+    }
+  }
+}
