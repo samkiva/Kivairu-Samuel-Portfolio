@@ -2,6 +2,9 @@
 
 A modern, responsive portfolio website built with React, TypeScript, Tailwind CSS, and Firebase.
 
+## 🌐 Live Preview
+
+[Click to View the Website](: https://github.com/samkiva/Kivairu-Samuel-Portfolio)  
 ## 🚀 Features
 
 - **Modern Design**: Dark theme with cybersecurity aesthetics
