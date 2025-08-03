@@ -237,7 +237,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- **Live Demo**: [Your Firebase Hosting URL]
+- **Live Demo**: https://sam-kiv-portfolio.web.app/
 - **Repository**: https://github.com/samkiva/Kivairu-Samuel-Portfolio
 - **Contact**: kivairusamuel9409@email.com
 
